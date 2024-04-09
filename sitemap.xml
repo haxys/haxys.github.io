@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://haxys.github.io/posts/</loc>
+    <loc>https://haxys.net/posts/</loc>
     <lastmod>2024-04-08T18:00:35-05:00</lastmod>
   </url><url>
-    <loc>https://haxys.github.io/</loc>
+    <loc>https://haxys.net/</loc>
     <lastmod>2024-04-08T18:00:35-05:00</lastmod>
   </url><url>
-    <loc>https://haxys.github.io/posts/2024/04-08_hello-world/</loc>
+    <loc>https://haxys.net/posts/2024/04-08_hello-world/</loc>
     <lastmod>2024-04-08T18:00:35-05:00</lastmod>
   </url><url>
-    <loc>https://haxys.github.io/tags/</loc>
+    <loc>https://haxys.net/tags/</loc>
     <lastmod>2024-04-08T18:00:35-05:00</lastmod>
   </url><url>
-    <loc>https://haxys.github.io/tags/test/</loc>
+    <loc>https://haxys.net/tags/test/</loc>
     <lastmod>2024-04-08T18:00:35-05:00</lastmod>
   </url><url>
-    <loc>https://haxys.github.io/about/</loc>
+    <loc>https://haxys.net/about/</loc>
     <lastmod>2024-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haxys.github.io/categories/</loc>
+    <loc>https://haxys.net/categories/</loc>
   </url>
 </urlset>
