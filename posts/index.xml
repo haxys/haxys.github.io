@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Haxys Labs</title>
+    <title>Haxys Labs</title>
     <link>https://haxys.github.io/posts/</link>
-    <description>Recent content in Posts on Haxys Labs</description>
+    <description>Recent content on Haxys Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Apr 2024 18:00:35 -0500</lastBuildDate>
     <atom:link href="https://haxys.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, world!</title>
-      <link>https://haxys.github.io/posts/hello-world/</link>
+      <link>https://haxys.github.io/posts/2024/04-08_hello-world/</link>
       <pubDate>Mon, 08 Apr 2024 18:00:35 -0500</pubDate>
-      <guid>https://haxys.github.io/posts/hello-world/</guid>
+      <guid>https://haxys.github.io/posts/2024/04-08_hello-world/</guid>
       <description>Did you miss me? I missed you.</description>
     </item>
   </channel>
