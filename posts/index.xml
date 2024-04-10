@@ -6,8 +6,15 @@
     <description>Recent content on Haxys Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Apr 2024 18:00:35 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 11:28:07 -0500</lastBuildDate>
     <atom:link href="https://haxys.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ScriptSharks.com, Re-Reborn</title>
+      <link>https://haxys.net/posts/2024/04-10_scriptsharks/</link>
+      <pubDate>Wed, 10 Apr 2024 11:28:07 -0500</pubDate>
+      <guid>https://haxys.net/posts/2024/04-10_scriptsharks/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve added the contents of &lt;a href=&#34;https://haxys.net/athenaeum/ScriptSharks.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ScriptSharks.com&lt;/a&gt;, my old Malware Analysis and Design website, to the &lt;a href=&#34;https://haxys.net/athenaeum/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Athenaeum Knowledge Base&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello, world!</title>
       <link>https://haxys.net/posts/2024/04-08_hello-world/</link>
